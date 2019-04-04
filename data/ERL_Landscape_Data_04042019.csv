@@ -1,0 +1,18 @@
+Laboratory,Machine,Energy,AveCurrent,BunchCharge,Status,DutyFactor
+Chalk River,Reflexotron,15,0.03,10,legacy,0.1
+MIT,MIT Bates,400,0.035,3.5,legacy,1
+Stanford,SCA,55,0.15,12.5,legacy,100
+LANL,LANL,21,0.01,4600,legacy,0.01
+JLAB,CEBAF-FET,43,0.03,0.02,legacy,100
+JLAB,IR Demo,48,4.5,60,legacy,100
+JLAB,CEBAF-ER,1056,0.08,0.2,legacy,100
+JAEA,JAEA,17,0.27,450,legacy,3
+JLAB,UV Demo,135,1.12,60,legacy,100
+JLAB,IR Upgrade,165,8,135,legacy,100
+Daresbury,ALICE,27.5,0.008,100,legacy,0.1
+KEK,cERL,17.7,1,5.5,operational,100
+Budker,BINP,42,10,1500,operational,
+Darmstadt,SDALINAC,22.5,0.001,0.0004,operational,
+Cornell/BNL,cBeta,150,40,123,under construction,100
+HZB,BERLinPRO,50,100,77,under construction,100
+Mainz,MESA,105,1,0.77,under construction,100
