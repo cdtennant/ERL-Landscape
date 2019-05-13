@@ -1,0 +1,12 @@
+Laboratory,Machine,Energy,AveCurrent,BunchCharge,Status,DutyFactor,TrueERL
+Chalk River,Chalk River,15,0.03,10,legacy,0.1,FALSE
+MIT,MIT Bates,400,0.035,3.5,legacy,1,FALSE
+Stanford,SCA,55,0.15,12.5,legacy,100,FALSE
+LANL,LANL,21,0.01,4600,legacy,0.01,FALSE
+JLAB,CEBAF-FET,43,0.03,0.02,legacy,100,FALSE
+JLAB,IR Demo,48,4.5,60,legacy,100,TRUE
+JLAB,CEBAF-ER,1056,0.08,0.2,legacy,100,FALSE
+KEK,JAEA,17,0.27,450,legacy,3,FALSE
+JLAB,UV Demo,135,2,60,legacy,100,TRUE
+JLAB,IR Upgrade,165,8,135,legacy,100,TRUE
+Daresbury,ALICE,27.5,0.008,100,legacy,0.1,FALSE

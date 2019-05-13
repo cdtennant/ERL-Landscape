@@ -1,0 +1,4 @@
+Laboratory,Machine,Energy,AveCurrent,BunchCharge,Status,DutyFactor,TrueERL
+Cornell/BNL,cBeta,150,40,123,under construction,100,FALSE
+HZB,BERLinPRO,30,5,77,under construction,100,FALSE
+Mainz,MESA,105,1,0.77,under construction,100,FALSE

@@ -1,0 +1,6 @@
+Laboratory,Machine,Energy,AveCurrent,BunchCharge,Status,DutyFactor,TrueERL
+KEK,cERL,17.7,1,5.5,operational,100,FALSE
+Budker,BINP 1-orbit,11,30,2000,operational,,FALSE
+Budker,BINP 2-orbit,22,10,1500,operational,,FALSE
+Budker,BINP 4-orbit,42,10,1500,operational,0.01,FALSE
+Darmstadt,SDALINAC,22.5,0.001,0.0004,operational,100,FALSE
